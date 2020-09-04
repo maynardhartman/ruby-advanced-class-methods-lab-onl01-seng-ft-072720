@@ -1,4 +1,4 @@
-require_relative '../lib/song'
+lorequire_relative '../lib/song'
 
 RSpec.configure do |config|
   config.order = :default
